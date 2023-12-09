@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E231" />
+          <option value="E303" />
+          <option value="E265" />
+          <option value="E111" />
+          <option value="E302" />
+          <option value="E225" />
+          <option value="E128" />
+          <option value="E501" />
+          <option value="E122" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="abc.String" />
+          <option value="pygame" />
+          <option value="Cs_ExpenseTracker.tkinter" />
+          <option value="main.tkcalendar" />
+          <option value="tkcalendar" />
+          <option value="main.PIL" />
+          <option value="main.tkcalender" />
+          <option value="Cs_ExpenseTracker.PIL" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

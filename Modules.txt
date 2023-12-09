@@ -1,0 +1,11 @@
+altgraph==0.17
+Babel==2.8.0
+future==0.18.2
+mysql-connector==2.2.9
+pefile==2019.4.18
+Pillow==8.0.1
+pyinstaller==4.0
+pyinstaller-hooks-contrib==2020.9
+pytz==2020.1
+pywin32-ctypes==0.2.0
+tkcalendar==1.6.1
